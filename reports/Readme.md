@@ -1,4 +1,4 @@
-# Título do projeto
+# Automoção Ruby + Cucumber
 
 Projeto de automoção web utilizando Ruby + Cucumber.
 
